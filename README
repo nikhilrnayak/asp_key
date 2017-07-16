@@ -1,0 +1,7 @@
+1 Copy the contents to your system
+2 run make
+3 run --- sudo insmod usbkbd.ko
+4 connect the usb keyboard
+5 run ---- sudo sh redirkb.sh
+6 if necessary give execute permission to the shell script 
+7 press the sequence of keys necessary to check the output.
